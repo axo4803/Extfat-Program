@@ -1,0 +1,35 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/workspaces/cse_3310_exFAT",
+            "binaryPath": "/workspaces/cse_3310_exFAT/mmap",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/workspaces/cse_3310_exFAT",
+            "binaryPath": "/workspaces/cse_3310_exFAT/munit_example",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/workspaces/cse_3310_exFAT",
+            "binaryPath": "/workspaces/cse_3310_exFAT/extfat",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "stdlib.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "stdio.h": "c",
+        "routines.h": "c",
+        "munit.h": "c",
+        "copyextfat.h": "c",
+        "extfat.h": "c",
+        "util.h": "c",
+        "directoryextfat.h": "c",
+        "parseargs.h": "c"
+        "directoryentryinfo.h": "c"
+    }
+}
